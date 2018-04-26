@@ -7,6 +7,8 @@ UseHexane.tabs = {"High Performance", "Reliable Uptime", "DDoS Protectioned", "F
 UseHexane.TabNumbers = 2 // Amount of tabs that appear in the hostname above.
 UseHexane.HostnameRefreshTime = 15 // Seconds
 
+// Do not edit past here unless you know what you are doing //
+
 if (UseHexane.HostnameToggle or true) then
 	
 	timer.Create("UseHexane_HostName", 1, 0, function() 

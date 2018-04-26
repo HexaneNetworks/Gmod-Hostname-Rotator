@@ -1,5 +1,5 @@
-
 UseHexane = UseHexane or {}
+
 //Hostname changer
 UseHexane.HostnameToggle = true
 UseHexane.servername = "UseHexane.com | "
